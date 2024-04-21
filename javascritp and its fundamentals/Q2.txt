@@ -1,0 +1,17 @@
+Explain the key differences between JavaScript and HTML. Provide examples of situations where
+you would use each.
+
+
+HTML provides the structure and content of a webpage, while JavaScript adds interactivity and dynamic behavior. HTML defines elements like headings, paragraphs, and forms, while JavaScript enables actions like form validation, interactive animations, and dynamic content updates without reloading the page.
+
+Examples of when to use HTML:
+
+Defining the structure of a web page using elements like <header>, <nav>, <main>, <footer>.
+Adding text, images, videos, and other multimedia content to a web page.
+Creating forms to collect user input using elements like <input>, <textarea>, <select>, etc.
+
+Examples of when to use JavaScript:
+
+Implementing client-side form validation to ensure that user inputs meet specific criteria before submission.
+Creating interactive features like image sliders, accordions, or dropdown menus that respond to user actions.
+Making asynchronous requests to servers to fetch data (e.g., AJAX requests) and updating the page content dynamically without reloading the entire page.

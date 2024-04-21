@@ -1,0 +1,10 @@
+Explain what JavaScript is and its role in web development.
+
+JavaScript is a programming language used in web development to make websites interactive and dynamic. It runs in the user's browser, allowing for real-time updates, event handling, and manipulation of web page content. It's essential for creating modern, engaging web experiences.
+
+JavaScript plays a crucial role in web development by enabling dynamic and interactive user experiences, facilitating client-server communication, and powering modern web applications across various devices and platforms.
+
+
+
+
+

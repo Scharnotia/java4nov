@@ -1,0 +1,4 @@
+Explain the role of operators in javascript.why are they  essential in programming?
+
+Operators in JavaScript are essential for performing tasks such as arithmetic calculations, comparing values, logical operations, assignment, incrementing/decrementing variables, concatenating strings, and manipulating binary data. They enable programmers to express algorithms, make decisions, and manipulate data efficiently in code.
+

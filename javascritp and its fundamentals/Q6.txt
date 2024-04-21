@@ -1,0 +1,14 @@
+Explain the importance of choosing meaningful and descriptive variable names in JavaScript.
+Provide an example where using a clear identifier improves code readability.
+
+Choosing meaningful and descriptive variable names in JavaScript enhances code readability, maintainability, and understanding. Clear identifiers provide insight into the purpose and usage of variables without needing additional documentation. This improves code comprehension, reduces errors, and facilitates collaboration among developers.
+
+// Without clear identifiers
+let a = 10;
+let b = 20;
+let c = a + b;
+
+// With clear identifiers
+let firstNumber = 10;
+let secondNumber = 20;
+let sum = firstNumber + secondNumber;
